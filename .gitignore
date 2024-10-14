@@ -1,0 +1,7 @@
+# local env files
+.env*
+
+node_modules
+dist
+prList.json
+storyPointsList.json
